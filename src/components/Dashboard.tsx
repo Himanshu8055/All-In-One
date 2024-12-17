@@ -9,35 +9,11 @@ function Dashboard() {
             cardLink: '/calculator',
         },
         {
-            imgUrl: 'https://s3-alpha.figma.com/hub/file/2207105442/bc767e31-c51f-4282-96bd-db916192efb2-cover.png',
+            imgUrl: 'https://th.bing.com/th/id/OIP.W5LUJk1JAZyXzR25P7WZ4QAAAA?rs=1&pid=ImgDetMain',
             title: 'Weather App',
             description: 'Get real-time weather updates, including temperature, humidity, and conditions, for your current location or any city around the world.',
             cardLink: '/weather',
-        },
-        {
-            imgUrl: 'https://s3-alpha.figma.com/hub/file/2207105442/bc767e31-c51f-4282-96bd-db916192efb2-cover.png',
-            title: 'Calculator',
-            description: 'Welcome to Online Calculator! We have a range of free, easy to use calculators, conversion tools, and much more!',
-            cardLink: '',
-        },
-        {
-            imgUrl: 'https://s3-alpha.figma.com/hub/file/2207105442/bc767e31-c51f-4282-96bd-db916192efb2-cover.png',
-            title: 'Calculator',
-            description: 'Welcome to Online Calculator! We have a range of free, easy to use calculators, conversion tools, and much more!',
-            cardLink: '',
-        },
-        {
-            imgUrl: 'https://s3-alpha.figma.com/hub/file/2207105442/bc767e31-c51f-4282-96bd-db916192efb2-cover.png',
-            title: 'Calculator',
-            description: 'Welcome to Online Calculator! We have a range of free, easy to use calculators, conversion tools, and much more!',
-            cardLink: '',
-        },
-        {
-            imgUrl: 'https://s3-alpha.figma.com/hub/file/2207105442/bc767e31-c51f-4282-96bd-db916192efb2-cover.png',
-            title: 'Calculator',
-            description: 'Welcome to Online Calculator! We have a range of free, easy to use calculators, conversion tools, and much more!',
-            cardLink: '',
-        },
+        }
     ];
 
     return (
